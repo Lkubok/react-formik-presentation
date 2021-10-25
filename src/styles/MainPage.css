@@ -5,3 +5,9 @@
   align-items: center;
   display: flex;
 }
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
